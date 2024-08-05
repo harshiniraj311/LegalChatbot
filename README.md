@@ -12,6 +12,7 @@ The Legal Chatbot is designed to streamline your legal experience by answering y
 - **Legal Advice:** Provides precise answers to legal questions.
 - **Lawyer Finder:** Helps users find qualified lawyers for personalized assistance.
 - **Voiceflow Integration:** Utilizes Voiceflow for a smooth chatbot experience.
+- **Telegram Integration:** The chatbot is also integrated with Telegram for convenient access.
 
 ## Installation
 
