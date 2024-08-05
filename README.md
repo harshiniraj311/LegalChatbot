@@ -31,3 +31,7 @@ To get started with the Legal Chatbot, follow these steps:
     ```
 
 3. Open the `index.html` file in your browser to see the chatbot in action.
+
+## Usage
+
+Simply open the `index.html` file in your browser. The chatbot will load automatically and you can start asking your legal questions. The navigation bar at the top allows you to switch between the Home and About Us sections.
